@@ -8,7 +8,7 @@ This report analysed the sales data for the period, January 2015-December 2018 w
 
 We deployed SQL to clean, understand and explore the data for better insights. Then we explored deeper with a data visualization tool (Tableau), were we uncovered resourceful insights that can the Buiness profitability, optimize its products and regional performance, expand customer loyalty and build stronger relationships with suppliers. 
 
-Here is the [presentation link] (https://drive.google.com/file/d/1o-5PdOhVOx-598YjqJCj2PDQLFXNabrt/view?usp=sharing)
+Here is the [presentation link](https://drive.google.com/file/d/1o-5PdOhVOx-598YjqJCj2PDQLFXNabrt/view?usp=sharing)
 
 Have fun!
  
